@@ -1,0 +1,12 @@
+$color_primary: #d6230c;
+$color_fontMain: #333;
+
+// animations
+@keyframes loading_bar {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 28px 0;
+  }
+}
